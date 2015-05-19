@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+	height: 1000px;
+	width: 1000px;
+}
+.blue {
+	height: 100%;
+	width: 33%;
+	background: blue;
+	float: left;
+	display: inline-block;
+}
+.green {
+	height: 100%;
+	width: 33%;
+	background: green;
+	float: left;
+}
+.yellow {
+	height: 75%;
+	width: 33%;
+	background: yellow;
+	float: left;
+}
+.red {
+	height: 25%;
+	width: 33%;
+	background-color: red;
+	float: left;
+	background: url("http://www.cityweekly.net/binary/e82f/Real-Salt-Lake-Logo-1024x961.jpg") no-repeat;
+	background-size: cover;
+
+}

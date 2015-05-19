@@ -1,0 +1,36 @@
+body {
+	margin: 0;
+}
+.header {
+	height: 80px;
+	width: 100%;
+	background-color: gray;
+	padding: 20px 0 10px 30px;
+}
+.littleBox {
+	height: 60px;
+	width: 60px;
+	background-color: blue;
+	border: solid black 5px;
+}
+.box {
+	height: 100px;
+	width: 100%;
+}
+.blue {
+	background: blue;
+
+}
+.blank {
+	height: 200px;
+	width: 100%;
+}
+.green {
+	background-color: green;
+}
+.red {
+	background-color: red;
+}
+.yellow {
+	background-color: yellow;
+}

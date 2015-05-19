@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+}
+.header {
+	width: 100%;
+	height: 100px;
+	background: #292929;
+}
+
+.left {
+	width: 8%;
+	height: 1000px;
+	background: #949494;
+	float: left;
+}
+.box {
+	width: 74%;
+	height: 100%;
+	background: red;	
+}
+.right {
+	width: 8%;
+	height: 1000px;
+	background: #949494;
+	position: absolute;
+	right:0;
+	top: 100px;
+}
+.footer {
+	width: 100%;
+	height: 100px;
+	background: #292929;
+}
+.console {
+	width: 100%;
+	height: 900px;
+	background: white;
+}
